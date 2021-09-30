@@ -6,9 +6,11 @@ h1{
 }
 h1.heading{
 	color:black;
+	font-size: 12px;
 }
 #h1id{
 	color:green;
+	background-color:antiquewhite ;
 }
 	
 	
