@@ -1,0 +1,12 @@
+body{
+	font-family:Helvetica;
+}
+#main-heading{
+	background-color:blue;
+}
+.main-section{
+	background-color:red;
+}
+p{
+  color:green;		
+}

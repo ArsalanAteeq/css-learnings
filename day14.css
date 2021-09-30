@@ -1,0 +1,19 @@
+img{
+	height:300px;
+	width:300px;
+	border: 2px solid black;
+	padding:10px;
+	margin:30px;
+}
+a{
+	border:2px solid black;
+	width:100px;
+	height:100px;
+}
+a{
+	border:2px solid black;
+	display:inline-block;
+	margin:30px;
+	padding:20px;
+	text-align:center;
+}

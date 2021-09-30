@@ -1,0 +1,15 @@
+body{
+	font-family:Helvetica;
+}
+header{
+	 background-color:#d0d6d5;
+}
+main{
+	background-color:#d0d6d5;
+}
+.secondary{
+	color:#00705c;
+}
+.Highlight{
+	background-color:#7dffe8;
+}

@@ -1,0 +1,9 @@
+input[type ^= 't']{
+	color:green;
+}
+a[href = "https://google.com"]{
+	color:pink;
+}
+a[href *= "https"]{
+	color:pink;
+}
