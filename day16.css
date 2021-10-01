@@ -1,4 +1,21 @@
-h1 {
-    color: aliceblue;
-    font-size: 12px;
+hr{
+    width: 500px;
+    margin-left: 0;
+    border: 0.5px dashed black;
+}
+.box2{
+    width: 500px;
+    background-color: lightcoral;
+    padding: 50px;
+    border: 10px solid red;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    /* box-sizing: content-box; */
+}   
+   
+.box1{
+    width: 500px;
+    background-color: lightcoral;
+    padding: 50px;
+    border: 10px solid red;
 }
